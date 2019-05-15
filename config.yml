@@ -1,0 +1,20 @@
+---
+# Docker User
+dockerUser: geoffh1977
+dockerUserEmail: geoffh1977@gmail.com
+license: gnu-gpl-v3.0
+
+# Source Build Variables
+buildImageName: debian
+buildImageVersion: jessie
+
+# Final Image Variables
+finalImageName: plexmediaserver
+finalImageVersion: 1.15.4.994-107756f7e
+
+# Application Variables
+appName: Plex Media Server
+
+# For Users With Plex Pass Access
+# plexUser:
+# plexPassword:
